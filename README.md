@@ -1,5 +1,6 @@
-![InShot_20210528_193141627 (1)](https://user-images.githubusercontent.com/82114698/120901036-f92e1a00-c655-11eb-8fac-17e988e41950.gif)
-### Hi there 👋
+![InShot_20210605_234105401](https://user-images.githubusercontent.com/82114698/120901417-5f1ba100-c658-11eb-8e4c-f9d4f100e56f.gif)
+
+### Hi there 👋 
 
 <!--
 **piyushdhir1/piyushdhir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
