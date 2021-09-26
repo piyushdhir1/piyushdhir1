@@ -1,4 +1,4 @@
-![InShot_20210606_175027895](https://user-images.githubusercontent.com/82114698/120924256-57a7d680-c6f0-11eb-9ce2-0b0d3fbfc8c4.gif)
+![InShot_20210606_175027895]
    
 
 ### Hi there 👋 
