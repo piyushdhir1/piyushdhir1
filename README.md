@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...never underestimate😁🌝
 -->
+
+<p align="center">
+  <img src="https://github.com/piyushdhir1/piyushdhir1/blob/main/READ%20ME%20TWICE.svg" alt="snake"></center>
+</p>
